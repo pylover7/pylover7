@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ```javascript
  class WhoAmI:
- 	user = '公众号 程序员GitHub'
-	current_edu = "外企工作18年的资深老码农"
+ 	user = '十丿叶'
+	current_edu = "还是个孩子~"
 	hobbies = [
 				'Drawing',
 				'Watching Anime',
@@ -36,31 +36,4 @@ Here are some ideas to get you started:
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
-	def getCity():
-		retrun Hyderabad_India()
-	
-	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
-```
 
-### My top 10 technologies-
-
-| ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/python.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/tensorflow.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/gcp.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/azure.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/c++.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/android.png) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/javascript.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/node.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/docker.svg) | ![](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/arduino.png) |
-
-### 💼 Where i am currently working at/as
-
-- [OwlSec Technologies: Founder and Consultant](https://owlsectechnologies.co.ke) 💼 
-- [Open World: Freelance](https://stephenajulu.com)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
----
-
-
-
-![mdo's github stats](https://github-readme-stats.vercel.app/api?username=mdo&hide=[%22issues%22]&show_icons=true)
